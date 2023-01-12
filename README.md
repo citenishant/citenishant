@@ -3,7 +3,7 @@
 ### Hello World!  👋
 ## This is Nishant Kumar.
 
-I am a computer geek from India. Currently works as an IT Security Analyst.
+I am a computer geek from India. Worked as an IT Security Analyst.
 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/citenishant/),  [Twitter](https://www.twitter.com/citenishant/) 
